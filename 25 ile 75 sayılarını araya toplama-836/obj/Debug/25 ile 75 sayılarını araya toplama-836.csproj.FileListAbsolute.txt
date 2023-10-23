@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\bin\Debug\25 ile 75 sayılarını araya toplama-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\bin\Debug\25 ile 75 sayılarını araya toplama-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\bin\Debug\25 ile 75 sayılarını araya toplama-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\_25_ile_75_sayılarını_araya_toplama_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\_25_ile_75_sayılarını_araya_toplama_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\25 ile 75 sayılarını araya toplama-836\25 ile 75 sayılarını araya toplama-836\obj\Debug\25 ile 75 sayılarını araya toplama-836.pdb
